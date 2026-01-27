@@ -1,3 +1,26 @@
+## neo_nav2_bringup (jazzy) - 1.3.2-1
+
+The packages in the `neo_nav2_bringup` repository were released into the `jazzy` distro by running `/usr/bin/bloom-release --rosdistro jazzy neo_nav2_bringup` on `Tue, 27 Jan 2026 07:37:09 -0000`
+
+The `neo_nav2_bringup` package was released.
+
+Version of package(s) in repository `neo_nav2_bringup`:
+
+- upstream repository: https://github.com/neobotix/neo_nav2_bringup.git
+- release repository: https://github.com/ros2-gbp/neo_nav2_bringup-release.git
+- rosdistro version: `1.3.1-1`
+- old version: `1.3.1-1`
+- new version: `1.3.2-1`
+
+Versions of tools used:
+
+- bloom version: `0.13.0`
+- catkin_pkg version: `1.1.0`
+- rosdep version: `0.26.0`
+- rosdistro version: `1.0.1`
+- vcstools version: `0.1.42`
+
+
 ## neo_nav2_bringup (kilted) - 1.4.1-1
 
 The packages in the `neo_nav2_bringup` repository were released into the `kilted` distro by running `/usr/bin/bloom-release --rosdistro kilted neo_nav2_bringup` on `Tue, 27 Jan 2026 07:32:18 -0000`
